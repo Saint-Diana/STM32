@@ -1,0 +1,50 @@
+Dependencies for Project 'atk_f103', Target 'Template': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
+F (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\arm\startup_stm32f103xe.s)(0x64ABAF0A)(--cpu Cortex-M3 -g --apcs=interwork -ID:\work\environment\STM32\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 538" --pd "STM32F10X_HD SETA 1"--list ..\..\output\startup_stm32f103xe.lst --xref -o ..\..\output\startup_stm32f103xe.o --depend ..\..\output\startup_stm32f103xe.d)
+F (..\..\User\main.c)(0x657137E0)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include -I ..\..\Drivers\CMSIS\Include -I ..\..\Drivers -I ..\..\User-ID:\work\environment\STM32\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="538" -DSTM32F10X_HD -DSTM32F103xE-o ..\..\output\main.o --omf_browse ..\..\output\main.crf --depend ..\..\output\main.d)
+I (..\..\Drivers\./SYSTEM/sys/sys.h)(0x6523A0F8)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\core_cm3.h)(0x64ABAF0A)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
+I (..\..\Drivers\CMSIS\Include\cmsis_version.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_compiler.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_armcc.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\./SYSTEM/usart/usart.h)(0x6523A0F8)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
+I (..\..\Drivers\./SYSTEM/delay/delay.h)(0x64ABAF0A)
+F (..\..\Drivers\SYSTEM\delay\delay.c)(0x6523A0F8)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include -I ..\..\Drivers\CMSIS\Include -I ..\..\Drivers -I ..\..\User-ID:\work\environment\STM32\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="538" -DSTM32F10X_HD -DSTM32F103xE-o ..\..\output\delay.o --omf_browse ..\..\output\delay.crf --depend ..\..\output\delay.d)
+I (..\..\Drivers\./SYSTEM/sys/sys.h)(0x6523A0F8)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\core_cm3.h)(0x64ABAF0A)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
+I (..\..\Drivers\CMSIS\Include\cmsis_version.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_compiler.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_armcc.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\./SYSTEM/delay/delay.h)(0x64ABAF0A)
+F (..\..\Drivers\SYSTEM\sys\sys.c)(0x6523A0F8)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include -I ..\..\Drivers\CMSIS\Include -I ..\..\Drivers -I ..\..\User-ID:\work\environment\STM32\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="538" -DSTM32F10X_HD -DSTM32F103xE-o ..\..\output\sys.o --omf_browse ..\..\output\sys.crf --depend ..\..\output\sys.d)
+I (..\..\Drivers\./SYSTEM/sys/sys.h)(0x6523A0F8)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\core_cm3.h)(0x64ABAF0A)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
+I (..\..\Drivers\CMSIS\Include\cmsis_version.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_compiler.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_armcc.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x64ABAF0A)
+F (..\..\Drivers\SYSTEM\usart\usart.c)(0x6523A0F8)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include -I ..\..\Drivers\CMSIS\Include -I ..\..\Drivers -I ..\..\User-ID:\work\environment\STM32\Keil_v5\ARM\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="538" -DSTM32F10X_HD -DSTM32F103xE-o ..\..\output\usart.o --omf_browse ..\..\output\usart.crf --depend ..\..\output\usart.d)
+I (..\..\Drivers\./SYSTEM/sys/sys.h)(0x6523A0F8)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\core_cm3.h)(0x64ABAF0A)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E3CC2)
+I (..\..\Drivers\CMSIS\Include\cmsis_version.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_compiler.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Include\cmsis_armcc.h)(0x64ABAF0A)
+I (..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x64ABAF0A)
+I (..\..\Drivers\./SYSTEM/usart/usart.h)(0x6523A0F8)
+I (D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8E3CC2)
+F (..\..\readme.md)(0x65712C76)()

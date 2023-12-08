@@ -1,0 +1,13 @@
+..\..\output\main.o: ..\..\User\main.c
+..\..\output\main.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Include\core_cm3.h
+..\..\output\main.o: D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\main.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+..\..\output\main.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\main.o: D:\work\environment\STM32\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+..\..\output\main.o: ..\..\Drivers\./SYSTEM/delay/delay.h

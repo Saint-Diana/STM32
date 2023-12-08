@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "led.h": "c",
+        "stm32f103xe.h": "c"
+    }
+}
