@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.html": "html",
+        "sys.h": "c",
+        "exti.h": "c",
+        "usart.h": "c",
+        "stm32f1xx_hal.h": "c"
+    }
+}

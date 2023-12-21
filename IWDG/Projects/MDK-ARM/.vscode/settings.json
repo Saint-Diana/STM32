@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.html": "html",
+        "led.h": "c",
+        "sys.h": "c",
+        "delay.h": "c",
+        "key.h": "c",
+        "wdg.h": "c",
+        "usart.h": "c"
+    }
+}
