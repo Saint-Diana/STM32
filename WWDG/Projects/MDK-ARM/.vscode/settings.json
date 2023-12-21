@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.html": "html",
+        "sys.h": "c",
+        "wdg.h": "c",
+        "led.h": "c"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F1xx/Include/**",
+                "${workspaceFolder}/Drivers/CMSIS/Include/**",
+                "D:\\work\\environment\\STM32\\Keil_v5\\ARM\\ARM_Compiler_5.06u7\\include\\**",
+                "${workspaceFolder}/Drivers/SYSTEM/sys/**",
+                "${workspaceFolder}/Drivers/SYSTEM/delay/**",
+                "${workspaceFolder}/Drivers/SYSTEM/usart/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_HAL_DRIVER",
+                "STM32F103xE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:\\work\\environment\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc",
+                    "${workspaceFolder}/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy",
+                    "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F1xx/Include",
+                    "${workspaceFolder}/Drivers/CMSIS/Include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

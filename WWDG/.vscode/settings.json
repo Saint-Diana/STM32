@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "sys.h": "c",
+        "delay.h": "c",
+        "usart.h": "c",
+        "stm32f1xx.h": "c",
+        "led.h": "c"
+    }
+}
